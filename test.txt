@@ -1,3 +1,5 @@
 first use git.
 
 分支
+
+add ssh key
